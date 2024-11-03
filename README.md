@@ -47,6 +47,22 @@ https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html<br>
 |                      | GitHub Security                               | [Watch Video](https://youtu.be/DmYe2itxSQA) |
 |                      | GitHub Administration                         | [Watch Video](https://youtu.be/xdjZ0HXADjE) |
 
+## Some Standards while raising PR
+explain the issue
+
+explain the step you did:
+- [X] Disabled the  UAT, PROD
+- [X]  Delete entries from both variables.yaml and connections.yaml files
+- [X]  Delete related password or secrets in the AWS Secret Manager
+- [X]  removed dev files
+
+> [!NOTE]  
+> The below is the secret unique to this Dag which is removed. 
+> <img width="739" alt="image" src="https://github.com/user-attachments/assets/34db8182-e864-49a5-b7cb-43702e87e657">
+
+> [!Important]  
+> These are the files removed and changed. 
+![image](https://github.com/user-attachments/assets/34db8182-e864-49a5-b7cb-43702e87e657)
 
 
 ![1](https://github.com/user-attachments/assets/c0088bd1-1ea8-47f9-8e2a-5d6979a36e23)
