@@ -4,8 +4,13 @@ Small documentation on tips and tricks of GitHUB
 
 
 Link to Explore:<br>
-https://skills.github.com/<br>
-https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html<br>
+Learn Github from scratch: https://skills.github.com/<br>
+Find More about GitHub badges: https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html<br>
+Github Research Next: https://githubnext.com/ <br>
+Github Spark Early access: https://githubnext.com/projects/github-spark/<br>
+Github Workspace Early Aceess: https://githubnext.com/projects/copilot-workspace/<br>
+Explore GitHub Models: https://github.com/marketplace/models<br>
+Apply for GitHub Student Developer Pack: https://education.github.com/pack<br>
 # Git and GitHub Learning Modules
 
 | Module               | Topic                                         | Video Link |
