@@ -159,3 +159,64 @@ Microsoft Learn provides comprehensive modules for mastering GitHub Copilot:
 | **Reasoning and Context vs. Calculations**    | Describe the nature of GitHub Copilot providing reasoning and context from a prompt vs. calculations. |
 | **Limited Context Windows**                   | Describe limited context windows. |
 
+# GitHub Copilot: Prompt Crafting, Engineering, and Developer Use Cases
+
+## Fundamentals of Prompt Crafting
+
+| Feature                                       | Description |
+|-----------------------------------------------|-------------|
+| **Context Determination**                     | Describe how the context for the prompt is determined. |
+| **Language Options**                          | Describe the language options for prompting GitHub Copilot. |
+| **Prompt Structure**                          | Describe the different parts of a prompt. |
+| **Role of Prompting**                         | Describe the role of prompting. |
+| **Zero-Shot vs. Few-Shot Prompting**          | Describe the difference between zero-shot and few-shot prompting. |
+| **Chat History Usage**                        | Describe the way chat history is used with GitHub Copilot. |
+| **Best Practices for Prompt Crafting**        | Identify prompt crafting best practices when using GitHub Copilot. |
+
+---
+
+## Fundamentals of Prompt Engineering
+
+| Feature                                       | Description |
+|-----------------------------------------------|-------------|
+| **Prompt Engineering Principles**             | Explain prompt engineering principles, training methods, and best practices. |
+| **Prompt Process Flow**                       | Describe the prompt process flow. |
+
+---
+
+# Domain 5: Developer Use Cases for AI
+
+## Improve Developer Productivity
+
+| Feature                                       | Description |
+|-----------------------------------------------|-------------|
+| **AI for Developer Productivity**             | Describe how AI can improve common use cases for developer productivity, such as: <ul><li>Learning new programming languages and frameworks</li><li>Language translation</li><li>Context switching</li><li>Writing documentation</li><li>Personalized context-aware responses</li><li>Generating sample data</li><li>Modernizing legacy applications</li><li>Debugging code</li><li>Data science</li><li>Code refactoring</li></ul> |
+| **SDLC Management**                           | Discuss how GitHub Copilot can help with SDLC (Software Development Lifecycle) management. |
+| **Limitations of GitHub Copilot**             | Describe the limitations of using GitHub Copilot. |
+| **Productivity API**                          | Describe how to use the productivity API to see how GitHub Copilot impacts coding. |
+
+# Domain 6: Testing with GitHub Copilot
+
+| Topic | Description |
+|-------|-------------|
+| **Describe the options for generating testing for your code** | |
+| Describe how GitHub Copilot can be used to add unit tests, integration tests, and other test types to your code | |
+| Explain how GitHub Copilot can assist in identifying edge cases and suggesting tests to address them | |
+| **Enhance code quality through testing** | |
+| Describe how to improve the effectiveness of existing tests with GitHub Copilot’s suggestions | |
+| Describe how to generate boilerplate code for various test types using GitHub Copilot | |
+| Explain how GitHub Copilot can help write assertions for different testing scenarios | |
+| **Leverage GitHub Copilot for security and performance** | |
+| Describe how GitHub Copilot can learn from existing tests to suggest improvements and identify potential issues in the code | |
+| Explain how to use GitHub Copilot Enterprise for collaborative code reviews, leveraging security best practices, and performance considerations | |
+| Explain how GitHub Copilot can identify potential security vulnerabilities in your code | |
+| Describe how GitHub Copilot can suggest code optimizations for improved performance | |
+
+# Domain 7: Privacy fundamentals and context exclusions
+
+| Topic | Description |
+|-------|-------------|
+| **Describe the different SKUs for GitHub Copilot** | |
+| Describe the different SKUs and the privacy considerations for GitHub Copilot | |
+| Describe the different code suggestion configuration options on the organization level | |
+| Describe the GitHub Copilot Editor config file | |
