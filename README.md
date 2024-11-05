@@ -3,14 +3,17 @@ Small documentation on tips and tricks of GitHUB
 ![2024-11-04_0-10-07](https://github.com/user-attachments/assets/34db8182-e864-49a5-b7cb-43702e87e657)
 
 
-Link to Explore:<br>
-Learn Github from scratch: https://skills.github.com/<br>
-Find More about GitHub badges: https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html<br>
-Github Research Next: https://githubnext.com/ <br>
-Github Spark Early access: https://githubnext.com/projects/github-spark/<br>
-Github Workspace Early Aceess: https://githubnext.com/projects/copilot-workspace/<br>
-Explore GitHub Models: https://github.com/marketplace/models<br>
-Apply for GitHub Student Developer Pack: https://education.github.com/pack<br>
+| Link to Explore                                    | Description                                                                                     |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| [Learn GitHub from scratch](https://skills.github.com/) | A comprehensive guide to learning GitHub from the basics.                                      |
+| [Find More about GitHub badges](https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html) | Resource to learn about GitHub badges and how to use them.                                     |
+| [Free GitHub Resume Review](https://topmate.io/sanjaykv/1135910/pay) | Get a free resume review on GitHub using code `recodehive`.                                    |
+| [GitHub Research Next](https://githubnext.com/)    | Explore new research projects and initiatives by GitHub.                                       |
+| [GitHub Spark Early Access](https://githubnext.com/projects/github-spark/) | Get early access to the GitHub Spark project.                                                  |
+| [GitHub Workspace Early Access](https://githubnext.com/projects/copilot-workspace/) | Early access to GitHub's Copilot Workspace project.                                            |
+| [Explore GitHub Models](https://github.com/marketplace/models) | Browse and explore various models available in the GitHub Marketplace.                         |
+| [Apply for GitHub Student Developer Pack](https://education.github.com/pack) | Access free tools and resources available to students on GitHub.                               |
+
 # Git and GitHub Learning Modules
 
 | Module               | Topic                                         | Video Link |
