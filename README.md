@@ -1,4 +1,25 @@
-# Learn-GitHub
+
+
+<h1 align="center">Learn GitHub</h1>
+<div align="center">
+  
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<a href="https://github.com/sanjay-kv/Learn-GitHub/stargazers"><img src="https://img.shields.io/github/stars/sanjay-kv/Learn-GitHubr" alt="Stars Badge"/></a>
+<a href="https://github.com/sanjay-kv/Learn-GitHub/network/members"><img src="https://img.shields.io/github/forks/sanjay-kv/Learn-GitHub" alt="Forks Badge"/></a>
+<a href="https://github.com/sanjay-kv/Learn-GitHub/issues"><img src="https://img.shields.io/github/issues/sanjay-kv/Learn-GitHub" alt="Issues Badge"/></a>
+<a href="https://github.com/sanjay-kv/Learn-GitHub/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sanjay-kv/Learn-GitHub?color=2b9348"></a>
+<a href="https://github.com/sanjay-kv/Learn-GitHub/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sanjay-kv/Learn-GitHub?color=2b9348" alt="License Badge"/></a>
+[![](https://visitcount.itsvg.in/api?id=learn&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+This is the all in one place for documentation help regarding the learn GitHub
+</div>
+
+
+I’m [Sanjay](https://github.com/sanjay-kv), your Senior Program Manager, and I'm thrilled to have you all here at learn GitHub ✨
+ - **Remember: Collaboration First, Code 2nd**
+
 Small documentation on tips and tricks of GitHUB
 ![2024-11-04_0-10-07](https://github.com/user-attachments/assets/34db8182-e864-49a5-b7cb-43702e87e657)
 
@@ -13,6 +34,7 @@ Small documentation on tips and tricks of GitHUB
 | [GitHub Workspace Early Access](https://githubnext.com/projects/copilot-workspace/) | Early access to GitHub's Copilot Workspace project.                                            |
 | [Explore GitHub Models](https://github.com/marketplace/models) | Browse and explore various models available in the GitHub Marketplace.                         |
 | [Apply for GitHub Student Developer Pack](https://education.github.com/pack) | Access free tools and resources available to students on GitHub.                               |
+| [Do your 1st commit](https://github.com/sanjay-kv/Open-source-Practice) | Learn to do your first opensource Pull request.                               |
 
 # Git and GitHub Learning Modules
 
