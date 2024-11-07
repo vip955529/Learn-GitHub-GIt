@@ -133,3 +133,19 @@ explain the step you did:
 ![19](https://github.com/user-attachments/assets/68471bc1-b517-4645-9e04-8e3e22f38d60)
 ![18](https://github.com/user-attachments/assets/26215367-2a9d-4096-9f9b-fbe3f69b65a7)
 ![38](https://github.com/user-attachments/assets/6aad4461-d9ad-432e-814d-c66a20b5f6ba)
+
+
+<div align="center">
+
+Happy reading and here’s to your career success! 🎉
+<br>
+### recode-hive 2024
+
+[Website](https://recodehive.com/) | [Instagram](https://www.instagram.com/sanjay.viswa_/) | [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/) | [Twitter](https://x.com/sanjay_kv_) | [YouTube](https://www.youtube.com/@RecodeHive)<br>
+**🔔 Don’t miss a beat!** <br>
+  Subscribe to receive our newsletter directly in your inbox for the latest career insights & tailored to your journey.
+[![Subscribe to Our Newsletter](https://img.shields.io/badge/Subscribe%20to%20Our%20Newsletter-%F0%9F%93%A9-blue)](https://recodehive.substack.com/) <br>
+
+</div>
+
+
